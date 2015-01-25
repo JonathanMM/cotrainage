@@ -1,0 +1,35 @@
+body
+{
+    font-family: Ubuntu, Arial;
+    background-color: #303030;
+    color: #FCF9DF;
+}
+
+a
+{
+    color: #F7CCAA;
+}
+
+footer
+{
+    margin-top: 10px;
+    color: #BCBCBC;
+    font-style: italic;
+    font-size: 9px;
+}
+
+th
+{
+    background-color: #C3F3FF;
+    color: #646464;
+}
+
+h1, h2
+{
+    color: #C1C1C1;
+}
+
+input
+{
+    background: #D4D4D4;
+}
